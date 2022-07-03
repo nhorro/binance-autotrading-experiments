@@ -1,0 +1,18 @@
+Experimentos con trading automático
+===================================
+
+Este repositorio contiene apuntes y experimentos de trading automático con [Binance](https://www.binance.com). 
+
+<<<<<<< HEAD
+**Cuadernos**
+
+- [Introducción al análisis técnico](./notebooks/01_Intro_a_analisis_tecnico.ipynb)
+- [Suscripción en tiempo real a datos de mercado de Binance con Websockets](./notebooks/02_Binance_websockets.ipynb)
+- [Introducción al trading automático](./notebooks/03_Intro_a_trading_automatico.ipynb)
+=======
+**Cuadernos (Jupyter)**
+
+- [Introducción al análisis técnico](./notebooks/01_Intro_a_analisis_tecnico.ipynb)
+- [Suscripción a datos de mercado de Binance en vivo con websockets](./notebooks/02_Binance_websockets.ipynb)
+- [Introducción al trading automático](./notebooks/03_Intro_a_trading_automatico.ipynb)
+>>>>>>> 98d4f570d3d7b5c7f39b2c78bde71aae0d5dc907
